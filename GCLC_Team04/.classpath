@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="authenticator-src"/>
+	<classpathentry kind="src" path="plugin-src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="bootstrap-libs/ivy-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging/commons-logging/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/cos/cos/cos-20021105.jar"/>
+	<classpathentry kind="lib" path="lib/mail/imap/imap-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/mail/mailapi/mailapi-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/mail/pop3/pop3-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/mail/smtp/smtp-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/otpauth/otpauth/otpauth-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api/servlet-api/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/xalan/serializer/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/xalan/xalan/xalan-2.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
